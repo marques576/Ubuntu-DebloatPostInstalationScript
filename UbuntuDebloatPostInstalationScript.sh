@@ -31,4 +31,4 @@ sudo apt purge evince -y
 echo "evince/documents removed"
 sudo apt purge ubuntu-report popularity-contest apport whoopsie -y
 echo "Yay ubuntu stoped spying on you!"
-sudo apt-get install vlc flasmeshot vim -y
+sudo apt install vlc flasmeshot vim -y
